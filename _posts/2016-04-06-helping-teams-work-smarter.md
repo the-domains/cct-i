@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: Your business performance is dependent on efficient processes and your team’s adoption and adherence to
-datePublished: '2016-04-06T13:45:46.056Z'
-dateModified: '2016-04-06T13:45:37.711Z'
+description: "Your business performance is dependent on efficient processes and your team’s adoption and adherence to\_best practices"
+datePublished: '2016-04-06T13:46:18.850Z'
+dateModified: '2016-04-06T13:46:02.061Z'
 title: helping teams work smarter
 author: []
 authors: []
