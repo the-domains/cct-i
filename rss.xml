@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[really cool tools... seamless, transparent and totally connected]]></title>
         <description><![CDATA[really cool tools... seamless, transparent and totally connected]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cct-i/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 13:46:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Apr 2016 13:46:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cct-i/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[helping teams work smarter]]></title>
             <description><![CDATA[<article><h1>helping teams work smarter</h1><p>Your business performance is dependent on efficient processes and your team’s adoption and adherence to best practices</p></article>]]></description>
-            <link>undefinedhelping-teams-work-smarter/index.html</link>
+            <link>https://thegrid.ai/cct-i/helping-teams-work-smarter/index.html</link>
             <guid isPermaLink="false">b31595f2-2715-4cb1-9fad-a2ff6e94530b</guid>
-            <pubDate>Wed, 06 Apr 2016 13:45:46 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2016 13:46:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
