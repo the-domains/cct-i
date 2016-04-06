@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[really cool tools... seamless, transparent and totally connected]]></title>
+        <description><![CDATA[really cool tools... seamless, transparent and totally connected]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Apr 2016 13:46:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[helping teams work smarter]]></title>
+            <description><![CDATA[<article><h1>helping teams work smarter</h1><p>Your business performance is dependent on efficient processes and your team’s adoption and adherence to best practices</p></article>]]></description>
+            <link>undefinedhelping-teams-work-smarter/index.html</link>
+            <guid isPermaLink="false">b31595f2-2715-4cb1-9fad-a2ff6e94530b</guid>
+            <pubDate>Wed, 06 Apr 2016 13:45:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
